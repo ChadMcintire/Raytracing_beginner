@@ -1,0 +1,4 @@
+To build and run the program
+
+1. g++ main.cc
+2. a.out > imagex.ppm  //where x is an arbitrary identifier
