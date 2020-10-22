@@ -1,0 +1,17 @@
+blended Value = (1-t) * startValue + t*endValue;
+
+The formula for a point on the sphere
+R^2 = x^2 + y^2 + z^2;
+
+The formula for a point inside the sphere
+R^2 < x^2 + y^2 + z^2;
+
+If the sphere center is not at (Cx, Cy, Cz) instead of the origin:
+(x - Cx)^2 + (y - Cy)^2  (z - Cz)^2 = r^2
+
+
+In terms of point and center:
+Where P=(x,y,z) and C = (Cx, Cy, Cz)
+(x - Cx)^2 + (y - Cy)^2  (z - Cz)^2 = (P - C) * (P-C)
+
+
